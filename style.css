@@ -1,0 +1,129 @@
+body{
+  background-image: url("paper.gif");
+  background-color: #cccccc;
+  font-family: "Times New Roman", Times, serif;
+  font-size:20px;
+  
+}
+.mynavbar{
+ display:bloack;
+text-align: center;
+ padding: 20px 20px 20px
+ font-size: 25px;
+ list-style: none;
+  background: #1abc9c;
+}
+   
+
+#mybackground{
+  color:none ;
+  padding:20px
+  margin: 10px 50px 20px 0;
+  font-size:49px;
+  text-align: center;
+}
+#aboutme{
+  text-align:center;
+}
+.myhistory{
+  padding:30px;
+  algin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: 40px;
+  margin-left: 130px;
+}
+#flag{
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:200px;
+  
+  
+  }
+  #coding{
+  padding: 5px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 25px;
+  text-align:center;
+   
+  }
+#codingstyle{
+  padding:30px;
+  algin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: 40px;
+  margin-left: 45px;
+  
+}
+#hobbies{
+  padding: 5px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 25px;
+  text-align:center;
+  
+}
+.hobbiespassion{
+  padding:30px;
+  algin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: 40px;
+  margin-left: 45px;
+}
+.favouritebooks{
+  text-align:center
+  padding:30px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 25px;
+  text-align:center;
+}
+
+.video{
+   text-align:center 
+}
+
+.fa-facebook {
+            background: #007bb5;
+            color: white;
+        }
+  
+        .fa-twitter {
+            background: #cb2027;
+            color: white;
+        }
+  
+        .fa-instagram {
+            background: #ff5700;
+            color: white;
+        }
+  
+        .fa {
+            padding: 10px;
+            font-size:30px;
+            width:25px;
+            text-decoration: none;
+            margin: 8px 8px;
+            
+           }
+
+
+
+
+
+  
+ 
+
+
+
+/* don't edit this */
+.jest-lite-report__status--pass {
+  background: var(--color-pass);
+}
+.jest-lite-report__errors {
+  display: none;
+}
