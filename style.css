@@ -86,31 +86,12 @@ text-align: center;
 .video{
    text-align:center 
 }
-
-.fa-facebook {
-            background: #007bb5;
-            color: white;
-        }
-  
-        .fa-twitter {
-            background: #cb2027;
-            color: white;
-        }
-  
-        .fa-instagram {
-            background: #ff5700;
-            color: white;
-        }
-  
-        .fa {
-            padding: 10px;
-            font-size:30px;
-            width:25px;
-            text-decoration: none;
-            margin: 8px 8px;
-            
-           }
-
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
 
 
